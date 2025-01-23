@@ -1590,7 +1590,7 @@ return {
 			DISEASING = "Err, something's not right.",
 			BURNING = "Wah, the berries!",
 		},
-		BIGFOOT = "Eh!? T-there's a huge foot!",
+		BIGFOOT = "Eh!? T-There's a huge foot!",
 		BIRDCAGE =
 		{
 			GENERIC = "I wonder what bird will stay there...",
@@ -1888,7 +1888,7 @@ return {
 		ACORN = "Hmm... I should plant them and make more of these nuts for Chipmunk when I get out of here.",
         ACORN_SAPLING = "Yay! It's gonna grow!",
 		ACORN_COOKED = "It's grilled! I wish Chipmunk was here to eat these...",
-		BIRCHNUTDRAKE = "A mad little nut.",
+		BIRCHNUTDRAKE = "I knew they were alive! I'm scared!",
 		EVERGREEN =
 		{
 			BURNING = "It's no use. It's not going out!",
@@ -2031,9 +2031,9 @@ return {
 			INGROUND = "It's sleeping.",
 			PICKED = "I wonder if it will come back?",
 		},
-		GUNPOWDER = "It's black dust, isn't it?",
+		GUNPOWDER = "This dust is already burnt, isn't it?",
 		HAMBAT = "A weapon made out of meat?",
-		HAMMER = "A hammer?!",
+		HAMMER = "I could crack my shellfish easily with this!",
 		HEALINGSALVE = "The stinging means that it's working.",
 		HEATROCK =
 		{
@@ -2167,11 +2167,11 @@ return {
             DRYINGINRAIN = "I don't think it will nothing will happen to it while it's raining.",
             GENERIC = "I should put something hanging there.",
             BURNT = "The rack got dried.",
-            DONE_NOTMEAT = "In laboratory terms, we would call that \"dry\".",
-            DRYING_NOTMEAT = "Drying things is not an exact science.",
-            DRYINGINRAIN_NOTMEAT = "Rain, rain, go away. Be wet again another day.",
+            DONE_NOTMEAT = "Ah... it's not meat?.",
+            DRYING_NOTMEAT = "It'll turn into meat!",
+            DRYINGINRAIN_NOTMEAT = "Will the rain turn it to meat?.",
         },
-        MEAT_DRIED = "Just jerky enough.",
+        MEAT_DRIED = "The meat is all done!",
         MERM = "That looks like Giant Salamander!",
         MERMHEAD =
         {
@@ -2197,7 +2197,7 @@ return {
         MONSTERMEAT_DRIED = "Strange-smelling jerky.",
         MOOSE = "EH?!?! A large mother bird?",
         MOOSE_NESTING_GROUND = "It puts its babies there.",
-        MOOSEEGG = "The babies are like excited electrons trying to escape.",
+        MOOSEEGG = "It's huge! Will more come out?",
         MOSSLING = "It sure is growing!",
         FEATHERFAN = "I like this feather.",
         MINIFAN = "Somehow the breeze comes out the back twice as fast.",
@@ -2211,14 +2211,14 @@ return {
         MOSQUITOSACK = "It's all full of blood!",
         MOUND =
         {
-            DUG = "He probably deserved it.",
+            DUG = "I wonder if he'll be stuck there...",
             GENERIC = "I bet there's all sorts of good stuff down there!",
         },
         NIGHTLIGHT = "It gives off a spooky light.",
         NIGHTMAREFUEL = "So, this is where night REALLY comes from?",
         NIGHTSWORD = "Why would anyone make this? It's terrifying.",
         NITRE = "It's a different rock?!",
-        ONEMANBAND = "We should add a beefalo bell.",
+        ONEMANBAND = "That seems like a lot of work...",
         OASISLAKE =
 		{
 			GENERIC = "Is that a mirage?",
@@ -2231,11 +2231,10 @@ return {
         PENGUIN = "I guess Penguins don't like me...",
         PERD = "Ah! A turkey...",
         PEROGIES = "These are good!",
-        PETALS = "Look at all those pretty colors! Don't you just feel like dancing in the flowers?",
-        PETALS_EVIL = "I'm not sure if I want to hold those.",
+        PETALS = "Look at all those pretty colors! I want to dance in the petals!",
         PHLEGM = "It's thick and pliable. And salty.",
         PICKAXE = "This will be good for getting stuff.",
-        PIGGYBACK = "This little piggy's gone... \"home\".",
+        PIGGYBACK = "It's heavy, but it carries a lot of things!",
         PIGHEAD =
         {
             GENERIC = "Ah!!!",
