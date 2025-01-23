@@ -2816,7 +2816,7 @@ return {
 			ALMOST_DONE_COOKING = "The end is almost nigh.",
 			DISH_READY = "I suppose I could eat something.",
 		},
-		BERRYSAUCE = "Abigail would love this...",
+		BERRYSAUCE = "I can't eat it...",
 		BIBINGKA = "This bread has a most curious texture.",
 		CABBAGEROLLS = "I wouldn't mind rolling up in a blanket and forgetting my troubles...",
 		FESTIVEFISH = "It's about as festive as I feel.",
@@ -2831,8 +2831,8 @@ return {
 		PUMPKINPIE = "Is it sweet enough to help me forget the bitterness in my heart?",
 		ROASTTURKEY = "The holiday was cut short for this poor bird.",
 		STUFFING = "Perhaps filling my belly will make me feel less empty inside.",
-		SWEETPOTATO = "Oh Abigail, remember how mother would make this every year?",
-		TAMALES = "Little pockets of warmth in this cold world.",
+		SWEETPOTATO = "It's Raccoon's favorite food!",
+		TAMALES = "It looks like a blanket!",
 		TOURTIERE = "I cannot be comforted by comfort food... but I will have some more...",
 
 		TABLE_WINTERS_FEAST =
