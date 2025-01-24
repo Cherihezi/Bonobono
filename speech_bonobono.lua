@@ -3236,10 +3236,10 @@ return {
 
         MOONBUTTERFLY = 
         {
-        	GENERIC = "My vast scientific knowledge tells me it's... a moon butterfly.",
-        	HELD = "I've got you now.",
+        	GENERIC = "Is it from the moon?",
+        	HELD = "It glows like the moon!",
         },
-		MOONBUTTERFLYWINGS = "We're really winging it now.",
+		MOONBUTTERFLYWINGS = "Will I glow when I eat it?",
         MOONBUTTERFLY_SAPLING = "A moth turned into a tree? Lunacy!",
         ROCK_AVOCADO_FRUIT = "I'd shatter my teeth on that.",
         ROCK_AVOCADO_FRUIT_RIPE = "Uncooked stone fruit is the pits.",
@@ -3335,7 +3335,7 @@ return {
         MUTATEDHOUND = 
         {
         	DEAD = "Now I can breathe easy.",
-        	GENERIC = "Science save us!",
+        	GENERIC = "It's a giant hound!",
         	SLEEPING = "I have a very strong desire to run.",
         },
 
