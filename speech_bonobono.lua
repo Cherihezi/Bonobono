@@ -2232,6 +2232,7 @@ return {
         PERD = "Ah! A turkey...",
         PEROGIES = "These are good!",
         PETALS = "Look at all those pretty colors! I want to dance in the petals!",
+	PETALS_EVIL = "I'm not sure if I want to hold those.",
         PHLEGM = "It's thick and pliable. And salty.",
         PICKAXE = "This will be good for getting stuff.",
         PIGGYBACK = "It's heavy, but it carries a lot of things!",
