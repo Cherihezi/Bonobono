@@ -929,7 +929,7 @@ return {
         SANDSPIKE = "(gulp) why is that sand dangerous?",
         SANDBLOCK = "It's so gritty!",
         GLASSSPIKE = "Memories of the time I wasn't skewered.",
-        GLASSBLOCK = "Ooh! Shiny!",
+        GLASSBLOCK = "Ah, someone is watching me! It's me.",
         ABIGAIL_FLOWER =
         {
             GENERIC ="It's incredible!",
@@ -954,7 +954,7 @@ return {
 
         BOOK_BIRDS = "A book about birds? That's interesting...",
         BOOK_TENTACLES = "Oh? What a strange book, is it about squids or something?",
-        BOOK_GARDENING = "I wonder... what kind of tips and tricks I might learn...",
+        BOOK_GARDENING = "If you look carefully, it is a decorative book...",
         BOOK_SLEEP = "Perhaps there would be stories inside to make people sleepy...",
         BOOK_BRIMSTONE = "The beginning was dull, but got better near the end.",
 
